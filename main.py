@@ -70,3 +70,4 @@ while True:
         print(f"Error: {e}")
 
 readline.write_history_file(HISTFILE)
+
